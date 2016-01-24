@@ -3,6 +3,7 @@
   "homepage": "https://github.com/hakandilek/angular-github",
   "description": "Github API module for Angular",
   "main": "angular-github.js",
+  "version": "0.0.2",
   "moduleType": [
     "amd"
   ],
