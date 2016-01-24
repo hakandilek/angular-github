@@ -1,2 +1,2 @@
 # angular-github
-angular-github module
+Github API module for AngularJS
