@@ -1,0 +1,29 @@
+{
+  "name": "angular-github",
+  "homepage": "https://github.com/hakandilek/angular-github",
+  "description": "Github API module for Angular",
+  "main": "angular-github.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "github",
+    "angular",
+    "bower"
+  ],
+  "authors": [
+    "Hakan Dilek"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.4.8",
+    "github-api": "github#~0.10.7"
+  },
+}
